@@ -1,0 +1,5 @@
+*.class
+*.projet
+*.classpath
+*.settings
+*.metadata
